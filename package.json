@@ -1,0 +1,20 @@
+{
+  "name": "oh_my_nodejs",
+  "version": "1.0.0",
+  "description": "oh_my_nodejs is a project that studies and implements technologies that integrate into a CRUD api based on Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lbcamargo94/Oh_My_Nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lbcamargo94/Oh_My_Nodejs/issues"
+  },
+  "homepage": "https://github.com/lbcamargo94/Oh_My_Nodejs#readme"
+}
